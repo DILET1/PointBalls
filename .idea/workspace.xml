@@ -7,6 +7,8 @@
     <list default="true" id="b589fdad-adb8-4ba3-952d-bd620b9b352b" name="Changes" comment="it's all text again&#10;&#10;at least I know how mathematics works now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bhvisualizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bhvisualizer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbodysim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nbodysim.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rk4demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rk4demo.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
