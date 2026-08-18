@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b589fdad-adb8-4ba3-952d-bd620b9b352b" name="Changes" comment="it's all text again&#10;&#10;at least I know how mathematics works now">
+    <list default="true" id="b589fdad-adb8-4ba3-952d-bd620b9b352b" name="Changes" comment="I have animated a scatter plot, the actual math will come eventually&#10;&#10;Midterms coming up and all that, so not much time to work on this thing. Or so one might think.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bhvisualizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bhvisualizer.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nbodysim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nbodysim.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rk4demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rk4demo.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1775796260686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="I have animated a scatter plot, the actual math will come eventually&#10;&#10;Midterms coming up and all that, so not much time to work on this thing. Or so one might think.">
+      <option name="closed" value="true" />
+      <created>1776363403844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776363403844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="it's all text again&#10;&#10;at least I know how mathematics works now" />
-    <option name="LAST_COMMIT_MESSAGE" value="it's all text again&#10;&#10;at least I know how mathematics works now" />
+    <MESSAGE value="I have animated a scatter plot, the actual math will come eventually&#10;&#10;Midterms coming up and all that, so not much time to work on this thing. Or so one might think." />
+    <option name="LAST_COMMIT_MESSAGE" value="I have animated a scatter plot, the actual math will come eventually&#10;&#10;Midterms coming up and all that, so not much time to work on this thing. Or so one might think." />
   </component>
 </project>
