@@ -7,7 +7,7 @@ The second computational physics exploration by a CS student turned Physics stud
 The repo contains three Jupyter notebooks. One describes the RK4 method and (will) contain a script visualizing the calculation process, another describes the Barnes-Hut N-body algorithm and (will) contain a script visualizing the process, and the last contains the N-body simulator itself.
 
 ## Features
-
+- Main simulation is on Binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DILET1/PointBalls/main?urlpath=%2Fdoc%2Ftree%2Fnbodysim.ipynb)
 - Three simulation methods - naive, basic Barnes-Hut, and modified Barnes-Hut all feeding into an RK4 integrator
 - Displays for total energy and elapsed time, so you can see how badly Barnes-Hut doesn't conserve energy with the current parameters, how good RK4 is at keeping errors down, and the effects of our modifications to Barnes-Hut.
 - Gravitational softening, to prevent weirdness (but creating a non-Newtonian gravity law)

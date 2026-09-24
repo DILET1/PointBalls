@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b589fdad-adb8-4ba3-952d-bd620b9b352b" name="Changes" comment="RK4 bugfix (forgot to divide forces by mass), played with parameters to support 25-body simulation, added damping parameter, added total energy display to ensure conservation of energy">
+    <list default="true" id="b589fdad-adb8-4ba3-952d-bd620b9b352b" name="Changes" comment="added runtime file and ipympl requirement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bhvisualizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bhvisualizer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbodysim.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nbodysim.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +97,40 @@
       <option name="project" value="LOCAL" />
       <updated>1790056026835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="beeg changes:&#10;&#10;- added a new force-sim method bhsim_improved and rk4_bhsim_improved that calls it, implementing the delta check&#10;- added a whole bunch of UI things: the number of point masses used per RK4 (effForces), text boxes to change the number of bodies, theta and epsilon, and a pause/resume button (with input handling for the boxes)&#10;- ability to select the force sim method via radio button&#10;- moved from %matplotlib notebook to %matplotlib widget">
+      <option name="closed" value="true" />
+      <created>1790290781944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790290781944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed the requirements.txt to have current versions of all libraries used, hopefully it fixes it on binder">
+      <option name="closed" value="true" />
+      <created>1790291724186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790291724186</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added runtime file and ipympl requirement">
+      <option name="closed" value="true" />
+      <created>1790293270159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790293270159</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="it's all text again&#10;&#10;at least I know how mathematics works now" />
     <MESSAGE value="I have animated a scatter plot, the actual math will come eventually&#10;&#10;Midterms coming up and all that, so not much time to work on this thing. Or so one might think." />
     <MESSAGE value="RK4 bugfix (forgot to divide forces by mass), played with parameters to support 25-body simulation, added damping parameter, added total energy display to ensure conservation of energy" />
-    <option name="LAST_COMMIT_MESSAGE" value="RK4 bugfix (forgot to divide forces by mass), played with parameters to support 25-body simulation, added damping parameter, added total energy display to ensure conservation of energy" />
+    <MESSAGE value="beeg changes:&#10;&#10;- added a new force-sim method bhsim_improved and rk4_bhsim_improved that calls it, implementing the delta check&#10;- added a whole bunch of UI things: the number of point masses used per RK4 (effForces), text boxes to change the number of bodies, theta and epsilon, and a pause/resume button (with input handling for the boxes)&#10;- ability to select the force sim method via radio button&#10;- moved from %matplotlib notebook to %matplotlib widget" />
+    <MESSAGE value="changed the requirements.txt to have current versions of all libraries used, hopefully it fixes it on binder" />
+    <MESSAGE value="added runtime file and ipympl requirement" />
+    <option name="LAST_COMMIT_MESSAGE" value="added runtime file and ipympl requirement" />
   </component>
 </project>
