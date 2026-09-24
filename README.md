@@ -1,6 +1,6 @@
 # PointBalls
 
-The second computational physics exploration by a sub-par CS student turned sub-par Physics student, turned sub-par CS student again after abandoning the project for the first time.
+The second computational physics exploration by a CS student turned Physics student, turned CS student again after abandoning the project for the first time.
 
 ## About
 
