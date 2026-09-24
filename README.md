@@ -20,9 +20,9 @@ Run the n-body simulator, trying both the naive and Barnes-Hut methods to see th
 - Run ```rk4_naive()```, this time with ```softening = 2```.
 - Run ```rk4_bh()```, with ```THETA = 0``` . It's exactly identical to the naive case, as BH degenerates to the naive simulation in that case.
 - Play with ```THETA = 0.2, 0.3,``` etc. and see where the errors begins to blow up in the energy
-Read my descriptions and diagrams of:
-- The Barnes-Hut simulation. In case you have no idea what recursion or a tree is. I put a lot of time into these Google Slides drawings, so if you do know what those are please look anyways.
-- RK4 integration. Where I have used someone else's Wikipedia image, but gave them credit.
+- Read my descriptions and diagrams of:
+  - The Barnes-Hut simulation. In case you have no idea what recursion or a tree is. I put a lot of time into these Google Slides drawings, so if you do know what those are please look anyways.
+  - RK4 integration. Where I have used someone else's Wikipedia image, but gave them credit.
 
 ## Features to be done
 
